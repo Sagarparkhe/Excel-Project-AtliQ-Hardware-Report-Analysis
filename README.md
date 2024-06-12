@@ -1,6 +1,6 @@
-# Excel-Project-AtliQ-Hardware-Report-Analysis
+# Excel Project-AtliQ Hardware Report Analysis
 
-**Problem Statement:**
+# Problem Statement:
 
 AtliQ Hardware faces challenges in gaining actionable insights from its sales data, hindering effective decision-making. The existing approach lacks dynamic views, detailed analysis, and systematic tracking, leading to suboptimal performance in key areas:
 
@@ -20,7 +20,7 @@ Enhance analytical skills and Excel proficiency to extract actionable insights f
 
 Implement interactive dashboards for streamlined data tracking and decision-making support, empowering AtliQ Hardware to make informed strategic decisions and drive growth.
 
-**Steps Followed:**
+# Steps Followed:
 
 **Data Collection and Cleaning:** Gathered and cleaned the "AtliQ Hardware Report" dataset to ensure data accuracy and reliability.
 
@@ -32,7 +32,7 @@ Implement interactive dashboards for streamlined data tracking and decision-maki
 
 **Iterative Refinement:** Continuously refined and updated reports based on feedback and evolving business requirements.
 
-**Key Features:**
+# Key Features:
 
 **Customer Net Sales Performance:** Dynamic visualization of net sales across customer segments.
 
@@ -48,7 +48,7 @@ Implement interactive dashboards for streamlined data tracking and decision-maki
 
 **GM% by Quarters (Sub-zone):** Focused analysis on gross margin percentages by quarter for sub-zones.
 
-**Skills and Tools Utilized:**
+# Skills and Tools Utilized:
 
 **Advanced Excel Proficiency:** Leveraged Excel for data analysis, visualization, and dashboard creation.
 
@@ -62,7 +62,7 @@ Implement interactive dashboards for streamlined data tracking and decision-maki
 
 **Data Cleaning and Preparation:** Ensured data accuracy and reliability through thorough cleaning and validation processes.
 
-**Learning Outcomes:**
+# Learning Outcomes:
 
 **Enhanced Analytical Skills:** Proficiency in analyzing complex datasets to extract actionable insights.
 
