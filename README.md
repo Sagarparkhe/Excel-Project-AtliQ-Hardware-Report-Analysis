@@ -12,7 +12,7 @@ AtliQ Hardware faces challenges in gaining actionable insights from its sales da
 
 **Suboptimal Financial Oversight:** Insufficient tools for tracking financial health restrict proactive management and risk mitigation strategies.
 
-To address these challenges, the project aims to:
+**To address these challenges, the project aims to:**
 
 Develop advanced Excel reports and visualizations to analyze sales, market targets, product performance, and financial metrics comprehensively.
 
@@ -69,3 +69,21 @@ Implement interactive dashboards for streamlined data tracking and decision-maki
 **Excel Mastery:** Advanced knowledge of Excel techniques including pivot tables, formulas, and dashboard creation.
 
 **Effective Problem-Solving:** Developed strategies applicable to real-world business scenarios, enhancing decision-making capabilities.
+
+# Dashboard Design 
+
+**Customer Net Sale Performance**
+
+![Customer Net Sale Performance](https://github.com/Sagarparkhe/Excel-Project-AtliQ-Hardware-Report-Analysis/assets/171353864/d401b8ab-2386-4ce8-adff-3c00c8a39023)
+
+**Division Level Report** 
+
+![Division Level Report ](https://github.com/Sagarparkhe/Excel-Project-AtliQ-Hardware-Report-Analysis/assets/171353864/2ac771f4-fbd8-4b98-85ef-6cb23cdb36c6)
+
+**Market Performance Vs Target**
+
+![Market Performance Vs target](https://github.com/Sagarparkhe/Excel-Project-AtliQ-Hardware-Report-Analysis/assets/171353864/ad4440be-f2db-423b-b553-c7ac3dfed716)
+
+**Top & Bottom 5 Products**
+
+![Top   Bottom 5 products](https://github.com/Sagarparkhe/Excel-Project-AtliQ-Hardware-Report-Analysis/assets/171353864/03bf4ef1-a264-441a-933c-03cfd99ecb1b)
